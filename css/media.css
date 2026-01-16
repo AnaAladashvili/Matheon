@@ -139,10 +139,34 @@
   .formulas-container h2 {
     font-size: 28px;
   }
+
+  .history-info p {
+    font-size: 25px;
+  }
+   .history-info li {
+    font-size: 25px;
+  }
+
+  .history-info h2 {
+    font-size: 38px;
+  }
+
+  .meaning-container h4 {
+    font-size: 35px;
+  }
+
 }
 
 @media (max-width: 250px) {
   .formula-card {
     font-size: 13px;
+  }
+
+   .meaning-container h4 {
+    font-size: 30px;
+  }
+
+   .meaning-container p {
+    font-size: 25px;
   }
 }
